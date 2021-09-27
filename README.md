@@ -4,6 +4,6 @@
  
  <div align="left">
   
-  ![Snake animation](https://github.com/xcalidi/xcalidi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luccaki/luccaki/blob/output/github-contribution-grid-snake.svg)
  </div>
  
